@@ -8,7 +8,7 @@ I am Penganguran Man
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on None work work
-- 🌱 I’m currently learning ML,AI,Data Engineering 
+- 🌱 I’m currently learning ML,AI,Data Engineering, Data analysis, Data science, Researcher. 
 - 👯 I’m looking to collaborate on my self
 - 🤔 I’m looking for help with my friend's
 - 💬 Ask me about Code
