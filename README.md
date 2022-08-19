@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on MSIB Startup campus AI cycle
 - 🌱 I’m currently learning ML,AI,Data Engineering, Data analysis, Data science, Researcher. 
 - 👯 I’m looking to collaborate on my self
 - 🤔 I’m looking for help with my friend's
